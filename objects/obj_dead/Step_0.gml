@@ -1,0 +1,1 @@
+hspeed = movespeed * image_xscale;

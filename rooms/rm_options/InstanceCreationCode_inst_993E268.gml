@@ -1,0 +1,1 @@
+state = option_button.fullOn;

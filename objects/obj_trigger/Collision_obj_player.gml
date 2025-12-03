@@ -1,0 +1,11 @@
+instance_deactivate_object(obj_player);
+var layer_id = layer_get_id("Black");
+var black_id = layer_background_get_id(layer_id);
+layer_background_visible(black_id, true);
+layer_background_get_visible(black_id);
+alarm[0] = 350;
+audio_play_sound(sfx_scream, 666, 0);
+audio_play_sound(sfx_splat, 666, 0);
+instance_destroy(obj_camera);
+instance_destroy(obj_parrallax);
+audio_stop_sound(mu_dead);
