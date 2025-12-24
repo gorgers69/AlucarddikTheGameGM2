@@ -10,6 +10,7 @@ function scr_load(){
 		{
 			instance_create(0, 0, obj_camera);
 			instance_create(0, 0, obj_parrallax);
+			instance_create(0, 0, obj_pause);
 		}
 	}
 	else

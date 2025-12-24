@@ -8,4 +8,5 @@ function scr_getinput(){
 	key_start = keyboard_check_pressed(vk_enter) || gamepad_button_check_pressed(0, gp_start);
 	key_up = keyboard_check_pressed(vk_up) || gamepad_button_check_pressed(0, gp_padu);
 	key_shoot2 = keyboard_check_pressed(ord("S")) || gamepad_button_check_pressed(0, gp_face3);
+	key_pause = keyboard_check_pressed(vk_enter) || gamepad_button_check_pressed(0, gp_start);
 }

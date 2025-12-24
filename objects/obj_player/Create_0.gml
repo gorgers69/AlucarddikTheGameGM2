@@ -18,6 +18,6 @@ crouch = false;
 global.kill = 0;
 global.secret = 0;
 
-//enable debug mode By Building the Source Code Games
+//enable debug mode By Building the Source Code
 if GM_build_type = "run"
 	global.debugmode = true;
