@@ -36,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_cringers",
-    "path":"sprites/spr_cringers/spr_cringers.yy",
+    "name":"spr_bob",
+    "path":"sprites/spr_bob/spr_bob.yy",
   },
   "spriteMaskId":{
     "name":"spr_player_mask",

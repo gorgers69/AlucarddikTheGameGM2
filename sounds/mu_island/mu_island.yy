@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":181.25005,
+  "duration":138.23111,
   "exportDir":"",
   "name":"mu_island",
   "parent":{
